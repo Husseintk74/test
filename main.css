@@ -1,0 +1,24 @@
+h1{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(red, yellow);
+ height: 100vh;
+}
+h3{
+    font-size: 40px;
+}
+button{
+    padding: 30px 80px;
+    background-image: linear-gradient(purple,rgba(0, 11, 128, 0.915));
+}
+#Quote1{
+    font-size: 30px;
+}
+#Quote2{
+    font-size: 20px;
+}
